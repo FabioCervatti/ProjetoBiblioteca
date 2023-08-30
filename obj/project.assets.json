@@ -5651,11 +5651,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Windows\\OneDrive - Etec Centro Paula Souza\\SENAC EAD\\Módulo B - UC02 - Documentar e realizar manutenção de aplicações web\\Atividades\\Atividade1\\Biblioteca\\Biblioteca.csproj",
+      "projectUniqueName": "C:\\Users\\Windows\\OneDrive - Etec Centro Paula Souza\\SENAC EAD\\Módulo B - UC07 - Documentar e realizar manutenção de aplicações web\\Atividades\\Atividade2\\Biblioteca\\Biblioteca.csproj",
       "projectName": "Biblioteca",
-      "projectPath": "C:\\Users\\Windows\\OneDrive - Etec Centro Paula Souza\\SENAC EAD\\Módulo B - UC02 - Documentar e realizar manutenção de aplicações web\\Atividades\\Atividade1\\Biblioteca\\Biblioteca.csproj",
+      "projectPath": "C:\\Users\\Windows\\OneDrive - Etec Centro Paula Souza\\SENAC EAD\\Módulo B - UC07 - Documentar e realizar manutenção de aplicações web\\Atividades\\Atividade2\\Biblioteca\\Biblioteca.csproj",
       "packagesPath": "C:\\Users\\Windows\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Windows\\OneDrive - Etec Centro Paula Souza\\SENAC EAD\\Módulo B - UC02 - Documentar e realizar manutenção de aplicações web\\Atividades\\Atividade1\\Biblioteca\\obj\\",
+      "outputPath": "C:\\Users\\Windows\\OneDrive - Etec Centro Paula Souza\\SENAC EAD\\Módulo B - UC07 - Documentar e realizar manutenção de aplicações web\\Atividades\\Atividade2\\Biblioteca\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Windows\\AppData\\Roaming\\NuGet\\NuGet.Config"
